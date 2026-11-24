@@ -304,6 +304,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[AnkiConnect](https://github.com/spacholski1225/anki-connect-mcp)** - AnkiConnect MCP server for interacting with Anki via AnkiConnect.
 - **[any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp)** - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more
 - **[APISIX-MCP](https://github.com/api7/apisix-mcp)** - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in [Apache APISIX](https://github.com/apache/apisix).
+- **[AQX Logistics Shipping Rates](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp)** - Real-time international air freight quotes, volumetric weight calculation, and customs de minimis thresholds across 15 trade corridors via the public [AQX Logistics](https://aqxlogistics.com) Quote API.
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
 - **[AutoGen documentation](https://github.com/sykuang/mcp-autogen-doc)** - A Model Context Protocol (MCP) server that provides AI assistants with the ability to search and retrieve Microsoft AutoGen documentation.
